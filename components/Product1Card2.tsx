@@ -14,7 +14,7 @@ export default function Product1Card2() {
         <div className="w-[1048px] h-[488px] flex justify-between items-center">
           <div className="w-[238px] h-[488px] ">
             <Image
-              src="/Product1Card2-3.png"
+              src="/product1Card2-3.png"
               alt="carausel Image"
               width={238}
               height={488}
@@ -22,7 +22,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-7.png"
+              src="/product1Card2-7.png"
               alt="carausel Image"
               width={241}
               height={488}
@@ -30,7 +30,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-6.png"
+              src="/product1Card2-6.png"
               alt="carausel Image"
               width={239}
               height={488}
@@ -38,7 +38,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-1.png"
+              src="/product1Card2-1.png"
               alt="carausel Image"
               width={239}
               height={488}
@@ -48,7 +48,7 @@ export default function Product1Card2() {
         <div className="w-[1048px] h-[488px] flex justify-between">
           <div className="w-[238px] h-[488px] ">
             <Image
-              src="/Product1Card2-5.png"
+              src="/product1Card2-5.png"
               alt="carausel Image"
               width={238}
               height={488}
@@ -56,7 +56,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-4.png"
+              src="/product1Card2-4.png"
               alt="carausel Image"
               width={241}
               height={488}
@@ -64,7 +64,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-3.png"
+              src="/product1Card2-3.png"
               alt="carausel Image"
               width={239}
               height={488}
@@ -72,7 +72,7 @@ export default function Product1Card2() {
           </div>
           <div className="w-[241px] h-[488px] ">
             <Image
-              src="/Product1Card2-2.png"
+              src="/product1Card2-2.png"
               alt="carausel Image"
               width={239}
               height={488}
