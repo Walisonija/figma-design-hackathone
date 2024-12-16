@@ -11,9 +11,14 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-      },
     },
+    backgroundImage: {
+      'aboutHead': "url('/public/aboutHead.png')",
+      'contactBackground': "url('/public/backgroundContact.png')",
+    }
   },
   plugins: [],
+}
 };
+
 export default config;
